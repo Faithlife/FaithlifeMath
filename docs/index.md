@@ -1,6 +1,7 @@
 # Faithlife.Math
 
-**Faithlife.Math** description
+**Faithlife.Math** provides platform-independent types for representing points, rectangles and sizes, and methods
+for operating on those types.
 
 ## Installation
 

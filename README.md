@@ -1,6 +1,6 @@
 # Faithlife.Math
 
-Description
+Provides platform-independent types for representing points, rectangles, and sizes.
 
 ## Build Status
 

@@ -1,4 +1,4 @@
-# ProjectName
+# Faithlife.Math
 
 Description
 
@@ -6,11 +6,11 @@ Description
 
 Ubuntu | Windows | NuGet
 --- | --- | ---
-[![Travis CI](https://img.shields.io/travis/Faithlife/RepoName/master.svg)](https://travis-ci.org/Faithlife/RepoName) | [![AppVeyor](https://img.shields.io/appveyor/ci/Faithlife/reponame/master.svg)](https://ci.appveyor.com/project/Faithlife/reponame) | [![NuGet](https://img.shields.io/nuget/v/ProjectName.svg)](https://www.nuget.org/packages/ProjectName)
+[![Travis CI](https://img.shields.io/travis/Faithlife/FaithlifeMath/master.svg)](https://travis-ci.org/Faithlife/FaithlifeMath) | [![AppVeyor](https://img.shields.io/appveyor/ci/Faithlife/faithlifemath/master.svg)](https://ci.appveyor.com/project/Faithlife/faithlifemath) | [![NuGet](https://img.shields.io/nuget/v/Faithlife.Math.svg)](https://www.nuget.org/packages/Faithlife.Math)
 
 ## Documentation
 
-http://faithlife.github.io/RepoName/
+http://faithlife.github.io/FaithlifeMath/
 
 ## License
 

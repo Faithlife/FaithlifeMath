@@ -8,9 +8,9 @@ var nugetApiKey = Argument("nugetApiKey", "");
 var trigger = Argument("trigger", "");
 
 var nugetSource = "https://api.nuget.org/v3/index.json";
-var solutionFileName = "ProjectName.sln";
-var docsAssembly = $@"src\ProjectName\bin\{configuration}\net46\ProjectName.dll";
-var docsSourceUri = "https://github.com/Faithlife/RepoName/tree/master/src/ProjectName";
+var solutionFileName = "Faithlife.Math.sln";
+var docsAssembly = $@"src\Faithlife.Math\bin\{configuration}\net46\Faithlife.Math.dll";
+var docsSourceUri = "https://github.com/Faithlife/FaithlifeMath/tree/master/src/Faithlife.Math";
 
 Task("Clean")
 	.Does(() =>

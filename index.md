@@ -1,12 +1,12 @@
-# ProjectName
+# Faithlife.Math
 
-**ProjectName** description
+**Faithlife.Math** description
 
 ## Installation
 
-ProjectName should be installed [via NuGet](https://www.nuget.org/packages/ProjectName).
+Faithlife.Math should be installed [via NuGet](https://www.nuget.org/packages/Faithlife.Math).
 
 ## Documentation
 
-* [Reference Documentation](ProjectName.md)
+* [Reference Documentation](Faithlife.Math.md)
 

@@ -14,7 +14,7 @@ var buildBotPassword = EnvironmentVariable("BUILD_BOT_PASSWORD");
 
 var nugetSource = "https://api.nuget.org/v3/index.json";
 var solutionFileName = "Faithlife.Math.sln";
-var docsAssembly = $@"src\Faithlife.Math\bin\{configuration}\net46\Faithlife.Math.dll";
+var docsAssembly = $@"src\Faithlife.Math\bin\{configuration}\net461\Faithlife.Math.dll";
 var docsRepoUri = "https://github.com/Faithlife/FaithlifeMath.git";
 var docsSourceUri = "https://github.com/Faithlife/FaithlifeMath/tree/master/src/Faithlife.Math";
 

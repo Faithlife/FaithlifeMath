@@ -1,8 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Version>0.1.0</Version>
-    <TargetFrameworks>netstandard1.4;netstandard2.0;net46</TargetFrameworks>
+    <VersionPrefix>0.1.0</VersionPrefix>
+    <TargetFrameworks>netstandard1.4;netstandard2.0;net461</TargetFrameworks>
+    <FrameworkPathOverride Condition="'$(TargetFramework)' == 'net461' and '$(MONO_ROOT)' != ''">$(MONO_ROOT)/lib/mono/4.6.1-api/</FrameworkPathOverride>
     <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
     <NoWarn>$(NoWarn);1591</NoWarn>
@@ -12,6 +13,10 @@
     <PackageProjectUrl>https://github.com/Faithlife/FaithlifeMath</PackageProjectUrl>
     <PackageReleaseNotes>https://github.com/Faithlife/FaithlifeMath/VersionHistory.md</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/Faithlife/FaithlifeMath.git</RepositoryUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/Faithlife/RepoName/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Faithlife/RepoName</PackageProjectUrl>
+    <PackageReleaseNotes>https://github.com/Faithlife/RepoName/blob/master/VersionHistory.md#released</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/Faithlife/RepoName.git</RepositoryUrl>
     <Authors>Faithlife Corporation</Authors>
     <Copyright>Copyright 2017 Faithlife Corporation</Copyright>
     <SourceLinkUrl>https://raw.githubusercontent.com/Faithlife/FaithlifeMath/{commit}/*</SourceLinkUrl>

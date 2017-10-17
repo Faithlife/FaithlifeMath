@@ -10,7 +10,7 @@ Ubuntu | Windows | NuGet
 
 ## Documentation
 
-http://faithlife.github.io/FaithlifeMath/
+https://faithlife.github.io/RepoName/
 
 ## License
 

@@ -15,14 +15,11 @@
     <PackageReleaseNotes>https://github.com/Faithlife/FaithlifeMath/blob/master/VersionHistory.md#released</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/Faithlife/FaithlifeMath.git</RepositoryUrl>
     <Authors>Faithlife Corporation</Authors>
-    <Copyright>Copyright 2017 Faithlife Corporation</Copyright>
-    <SourceLinkUrl>https://raw.githubusercontent.com/Faithlife/FaithlifeMath/{commit}/*</SourceLinkUrl>
-    <SourceLinkOriginUrl>https://github.com/Faithlife/FaithlifeMath.git</SourceLinkOriginUrl>
     <Copyright>Copyright 2018 Faithlife Corporation</Copyright>
     <Description>Provides platform-independent types for representing points, rectangles, and sizes.</Description>
     <PackageTags></PackageTags>
-    <SourceLinkUrl>https://raw.githubusercontent.com/Faithlife/RepoName/{commit}/*</SourceLinkUrl>
-    <SourceLinkOriginUrl>https://github.com/Faithlife/RepoName.git</SourceLinkOriginUrl>
+    <SourceLinkUrl>https://raw.githubusercontent.com/Faithlife/FaithlifeMath/{commit}/*</SourceLinkUrl>
+    <SourceLinkOriginUrl>https://github.com/Faithlife/FaithlifeMath.git</SourceLinkOriginUrl>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,9 +1,9 @@
-# Contributing to Faithlife.Math
+# Contributing to FaithlifeMath
 
 ## Prerequisites
 
-* Install [Visual Studio 2017](https://www.visualstudio.com/downloads/) or [Visual Studio Code](https://code.visualstudio.com/) with the [editorconfig extension](https://github.com/editorconfig/editorconfig-vscode).
-* Install [.NET Core 2.0](https://www.microsoft.com/net/core).
+* Install [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio Code](https://code.visualstudio.com/) with the [editorconfig extension](https://github.com/editorconfig/editorconfig-vscode).
+* Install [.NET Core 2.x](https://dotnet.microsoft.com/download).
 
 ## Guidelines
 
@@ -15,4 +15,4 @@
 
 * Clone the repository: `git clone https://github.com/Faithlife/FaithlifeMath.git`
 * `cd FaithlifeMath`
-* `dotnet test tests/Faithlife.Math.Tests`
+* `dotnet test`
